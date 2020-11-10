@@ -1,0 +1,18 @@
+{
+    "name": "keeper/pvd811php",
+    "type": "lesson",
+    "license": "beerWare",
+    "authors": [
+        {
+            "name": "Oleksandr Nykytin",
+            "email": "keeper@ninydev.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "Lib",
+            "App\\": "App"
+        }
+    }
+}
